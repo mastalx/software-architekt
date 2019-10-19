@@ -1,8 +1,8 @@
 Bewerbung als Software Architekt bei tie
 ========================================
 
-Da ich im Moment nicht sehr viel Zeit habe, schicke ich euch meine Bewerbung auf diesem Weg zwischen Windel-Wechseln und Mukiturnen:
-
+*Im Oktober 2019: Wegen stetem Zeitmangel schicke ich euch meine Bewerbung auf diesem Weg zwischen Windel-Wechseln und Mukiturnen*
+Lieber David, Lieber Magnus
 Während meiner Zeit bei tie durfte ich unterschiedliche Erfahrungen in allen Ecken und Enden der i-engine machen. Dies waren zu Beginn die Konzeption und initiale Umsetzung des Winclient, wobei die Kommunikation zwischen Frontends und Backends massgeblich von mir beeinflusst wurde und in seinen Grundzügen heute noch besteht. Nach dieser Zeit konnte ich mir im Master-Studium an der ETH weiteres Wissen im Bereich System-Bau und Performance-Analysen aneignen. Besonders das Fach Advanced-Systems-Lab hat mir die Augen dafür geöffnet, wie heutige Software gebaut werden sollte, damit sie für die Zukunft gerüstet ist. Dieses Know-How konnte ich mittlerweile in verschiedenen tie-Projekten erfolgreich einsetzen: Die heutigen File-Importer und auch der zugehörige Teil des REST-Interface sind mittlerweile duzendfach erfolgreich im Einsatz.
 
 Neben der fachlichen Schiene habe ich einige technische Projekte, vor allem beim Universitätsspital Basel, konzipiert und umgesetzt. Das waren die REST-Backends zum Dashboard und Patienten-Archiv-Viewer und zuletzt wurde mir die Verantwortung der grösseren Projekte Hydmedia-Migration und Ablösung-Scan-Infrastruktur übergeben. 
