@@ -1,7 +1,7 @@
 Bewerbung als Software Architekt bei tie
 ========================================
 
-*Im Oktober 2019, wegen stetem Zeitmangel entstehen diese Zeilen zwischen Windel-Wechseln und Mukiturnen*
+*Im Oktober 2019, wegen stetem Zeitmangel entstehen diese Zeilen zwischen Windel-Wechseln und VaKiturnen*
 
 Lieber David, Lieber Magnus
 
