@@ -11,7 +11,7 @@ Als Sparring-Partner für David habe ich beim Planen der Sprints dafür gesorgt,
 
 Meine Motivation als Software-Ingenieur ist nach wie vor immer noch das Credo: "Jemand anderes soll durch meine Arbeit besser seine eigene Arbeit erledigen können." Ich bin mir sicher, dass mir dies in meinen Projekten bis jetzt gut gelungen ist: Die IT-Mitarbeiter beim USB sind froh, dass ich sie bei der Hydmedia-Migration unterstütze, die Service-Center-Elektronische-Dokumentation-Mitarbeiter geben tolles Feedback zur Validierungsoberfläche, David hat mir bis jetzt kein Haar gekrümmt und unsere jungen Mitarbeiter liefern bessere Ware ab dank mir. So macht es mir Spass zu Arbeiten.
 
-Da ich viele Dinge eines "Software-Architekten" schon heute tue, würde ich mich freuen, wenn ihr mich berücksichtigen und dem ganzen den Titel "Software Architekt" aufsetzen würdet. Ich würde gerne mehr Zeit in Konzeption und korrekter Umsetzung gemäss dem oben erwähnten Credo investieren und in einem "Architekten-Team" weiterhin die Richtung der Software lenken, vor allem mit Fokus auf "Bessere Qualität", "rasche Upgrades und Patches", "Modularisierung" und "viel schneller Features ausliefern".
+Da ich viele Dinge eines Software-Architekten schon heute tue, würde ich mich freuen, wenn ihr mich berücksichtigen und dem ganzen den Titel "Software Architekt" aufsetzen würdet. Ich würde gerne mehr Zeit in Konzeption und korrekter Umsetzung gemäss dem oben erwähnten Credo investieren und mit einem "Architekten-Team" weiterhin die Richtung der Software lenken, vor allem mit Fokus auf "Bessere Qualität", "rasche Upgrades und Patches", "Modularisierung" und "viel schneller Features ausliefern".
 
 Viele Grüsse
 
