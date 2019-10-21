@@ -3,6 +3,7 @@ Bewerbung als Software Architekt bei tie
 
 *Im Oktober 2019, wegen stetem Zeitmangel entstehen diese Zeilen zwischen Windel-Wechseln und VaKiturnen*
 
+
 Lieber David, Lieber Magnus
 
 Während meiner Zeit bei tie durfte ich unterschiedliche Erfahrungen in allen Ecken und Enden der i-engine machen. Dies waren zu Beginn die Konzeption und initiale Umsetzung des **Winclient**, wobei die Kommunikation zwischen Frontends und Backend massgeblich von mir beeinflusst wurde und in seinen Grundzügen heute noch besteht. Nach dieser Zeit konnte ich mir im Master-Studium an der ETH weiteres Wissen im Bereich Systembau und Performance Analysen aneignen. Besonders das Fach Advanced Systems Lab hat mir die Augen dafür geöffnet, wie heutige Software gebaut werden sollte, damit sie für die Zukunft gerüstet ist. Dieses Know-How konnte ich mittlerweile in verschiedenen tie-Projekten erfolgreich einsetzen: Die heutigen **File-Importer** und auch der zugehörige Teil des **REST-Interface** sind mittlerweile duzendfach erfolgreich im Einsatz.
